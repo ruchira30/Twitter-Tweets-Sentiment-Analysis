@@ -4,3 +4,4 @@ This project performs sentiment analysis on Twitter data using Natural Language 
 
 # Results:
 ![Confusion Matrix](https://github.com/ruchira30/Twitter-Tweets-Sentiment-Analysis/blob/main/confusion_matrix.png)
+![Classification Report](https://github.com/ruchira30/Twitter-Tweets-Sentiment-Analysis/blob/main/classification_report.png)
